@@ -1,0 +1,5 @@
+{
+    "dburi": "mongodb+srv://mnfera:<mnfera2019>@cluster0-kb815.mongodb.net/test?retryWrites=true&w=majority",
+    "fbclientId": "mnfera",
+    "fbclientSecret": "mnfera2019"
+}
