@@ -1,7 +1,7 @@
 
 window.fbAsyncInit = function() {
 	FB.init({
-		appId: 'XXXXXXXXXXXX',
+		appId: '401155187183598',
 		cookie: true,
 		xfbml: true,
 		version: 'v3.2'
@@ -41,7 +41,7 @@ function statusChangeCallback(response) {
 		userid = response.authResponse.userID;
 		login = "fb";
 		getFbUser();
-	  } 
+	  }
 }
 
 function getFbUser() {
